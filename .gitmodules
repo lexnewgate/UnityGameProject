@@ -1,0 +1,3 @@
+[submodule "UnityGame/Assets/UnityCore"]
+	path = UnityGame/Assets/UnityCore
+	url = https://github.com/lexnewgate/UnityCore.git
